@@ -1,46 +1,53 @@
 ---
+layout: splash
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
+title: "Lorena Velásquez"
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
+header:
+  overlay_image: /images/home-banner.jpg
+  overlay_filter: 0.45
+  caption:
+excerpt: "Biologically informed prosthetic design, haptic feedback, and human-centered control."
+intro:
+  - excerpt: "I investigate the **form, function, and control** of tendon-driven upper-limb prosthetic devices to improve task performance, comfort, and cognitive workload during everyday use."
+feature_row:
+  - image_path: /images/taph_bsh.jpg
+    alt: "Tendon-actuated prosthetic hand design"
+    title: "Prosthetic Hand Design"
+    excerpt: "Biologically informed tendon-actuated end effectors for improved grasping, force distribution, and ADL performance."
+    url: /research/
+    btn_label: "Research"
+    btn_class: "btn--primary"
+  - image_path: /images/haptics.jpg
+    alt: "Haptic feedback system"
+    title: "Haptic Feedback"
+    excerpt: "State-based vibrotactile and skin-stretch feedback for reducing cognitive workload during prosthesis use."
+    url: /research/
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /images/fnirs_eye.jpg
+    alt: "fNIRS and eye tracking"
+    title: "Cognitive Workload"
+    excerpt: "Multimodal evaluation of prosthesis use using NASA-TLX, fNIRS, eye tracking, and task performance."
+    url: /research/
+    btn_label: "View Projects"
+    btn_class: "btn--primary"
 ---
-I’m **Lorena Velásquez**, a PhD Candidate in Mechanical Engineering at **Johns Hopkins University**, working in the Haptics and Medical Robotics Laboratory.
 
-I investigate the ** form, function, and control of tendon-driven upper limb prosthetic devices**.  My goal is to create devices that improve **task performance, force distribution, and user comfort**, while reducing the **cognitive workload** associated with prosthesis use.
+{% include feature_row id="intro" type="center" %}
 
-My research integrates:
+{% include feature_row %}
 
-- Biologically informed mechanical design 
-- State-based haptic feedback
-- Prosthetic Device Control
-- Musculoskeletal-informed control strategies
-- Multimodal workload assessment 
+## About
+
+I’m **Lorena Velásquez**, a PhD Candidate in Mechanical Engineering at **Johns Hopkins University** and a Graduate Research Assistant in the **Haptics and Medical Robotics Laboratory**.
+
+My work integrates **biologically informed mechanical design**, **state-based haptic feedback**, **prosthetic device control**, **musculoskeletal-informed control**, and **multimodal workload assessment**.
 
 I expect to graduate in **May 2026** and am seeking **postdoctoral opportunities beginning Fall 2026**.
 
----
-
-## Research Focus
-
-### Tendon-Actuated Prosthetic Design
-Comparative evaluation of biologically inspired and baseline tendon-driven end effectors across activities of daily living.
-
-### Sensory Feedback Integration
-Mapping internal device state to intuitive haptic cues to reduce monitoring demand.
-
-### Cognitive Workload During Prosthesis Use
-Multimodal assessment using neural, behavioral, and subjective metrics.
-
-### Customizable Prosthesis Generation (HAMR)
-User-specific design pipeline integrating 3D scanning, CAD parameterization, and additive manufacturing.
-
----
-
-## Explore
-- [Research](/research/)
-- [Publications](/publications/)
-- [Media](/media/)
-- [CV](/cv/)
-- [Contact](/contact/)
+[View Research](/research/){: .btn .btn--primary}
+[View CV](/cv/){: .btn .btn--inverse}
