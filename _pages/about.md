@@ -33,13 +33,6 @@ feature_row:
     url: /research/
     btn_label: "View Projects"
     btn_class: "btn--primary"
-  - image_path: fnirs_1.png
-    alt: "fNIRS and eye tracking"
-    title: "EVALUATION"
-    excerpt: "Multimodal evaluation of prosthesis use using NASA-TLX, fNIRS, eye tracking, and task performance."
-    url: /research/
-    btn_label: "View Projects"
-    btn_class: "btn--primary"
 ---
 
 <div style="display: flex; align-items: center; gap: 2.5rem; flex-wrap: wrap; margin: 2.5rem 0;">
