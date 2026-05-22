@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Explore Research"
     btn_class: "btn--primary"
 
-  - image_path: outreach.png
+  - image_path: outreach.jpg
     alt: "Outreach and community engagement"
     title: "Outreach"
     excerpt: "Hands-on STEM engagement, prosthetics demonstrations, mentoring, and community-centered engineering education."
