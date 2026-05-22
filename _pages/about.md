@@ -16,7 +16,7 @@ intro:
 feature_row:
   - image_path: /images/taph_bsh.png
     alt: "Tendon-actuated prosthetic hand design"
-    title: "Prosthetic Hand Design"
+    title: "Prosthetic Device Design"
     excerpt: "Biologically informed tendon-actuated end effectors for improved grasping, force distribution, and ADL performance."
     url: /research/
     btn_label: "Research"
