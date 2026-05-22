@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "Lorena Velásquez"
+title: "Lorena Velásquez, Ph.D."
 author_profile: false
 redirect_from:
   - /about/
@@ -10,7 +10,7 @@ header:
   overlay_image: /images/jhu.jpg
   overlay_filter: 0.45
   caption:
-excerpt: "Ph.D., Graduate Research Assistant, Johns Hopkins University"
+excerpt: "Graduate Research Assistant, Johns Hopkins University"
 intro:
   - excerpt: "Hi, I'm Lorena. I'm a graduate research assistant in the Haptics and Medical Robotics Laboratory in the Department of Mechanical Engineering at Johns Hopkins University. My work focuses on investigating the **form, function, and control** of tendon-driven upper-limb prosthetic devices to improve task performance, comfort, and cognitive workload during everyday use."
 feature_row:
