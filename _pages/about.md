@@ -49,7 +49,7 @@ feature_row:
 <div style="display: flex; align-items: center; gap: 2.5rem; flex-wrap: wrap; margin: 2.5rem 0;">
 
   <div style="flex: 1; min-width: 240px; text-align: center;">
-    <img src="/images/profile.jpg" alt="Lorena Velásquez" style="max-width: 280px; width: 100%; border-radius: 18px;">
+    <img src="/images/PROFILE.jpg" alt="Lorena Velásquez" style="max-width: 280px; width: 100%; border-radius: 18px;">
   </div>
 
   <div style="flex: 2; min-width: 300px;">
