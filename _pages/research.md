@@ -16,16 +16,6 @@ My research investigates the **form, function, and control** of tendon-driven up
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem;">
 
-<div>
-  <video width="100%" controls autoplay muted loop playsinline style="border-radius:12px;">
-  <source src="/files/tamp_vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-  <h2>TAMP Platform Overview</h2>
-  <p>The Tendon-Actuated Modular Prosthesis (TAMP) is a configurable research platform for studying biologically informed prosthetic design, tendon-driven actuation, sensory feedback, and control.</p>
-  <p><a href="/media/" class="btn btn--primary">View Demo</a></p>
-</div>
-
 <div style="display:flex; gap:2rem; align-items:center; flex-wrap:wrap;">
 
 <div style="flex:1; min-width:300px;">
