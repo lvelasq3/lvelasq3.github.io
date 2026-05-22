@@ -15,7 +15,7 @@ intro:
   - excerpt: "I investigate the **form, function, and control** of tendon-driven upper-limb prosthetic devices to improve task performance, comfort, and cognitive workload during everyday use."
 feature_row:
   - image_path: /images/taph_bsh.png
-    alt: "Tendon-actuated prosthetic hand design"
+    alt: "Tendon-actuated prosthetic device design"
     title: "Prosthetic Device Design"
     excerpt: "Biologically informed tendon-actuated end effectors for improved grasping, force distribution, and ADL performance."
     url: /research/
@@ -39,15 +39,27 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
+<div style="display: flex; align-items: center; gap: 2.5rem; flex-wrap: wrap; margin: 2.5rem 0;">
+
+  <div style="flex: 1; min-width: 240px; text-align: center;">
+    <img src="/images/profile.jpg" alt="Lorena Velásquez" style="max-width: 280px; width: 100%; border-radius: 18px;">
+  </div>
+
+  <div style="flex: 2; min-width: 300px;">
+    <h2>About</h2>
+
+    <p>I’m <strong>Lorena Velásquez</strong>, a PhD Candidate in Mechanical Engineering at <strong>Johns Hopkins University</strong> and a Graduate Research Assistant in the <strong>Haptics and Medical Robotics Laboratory</strong>.</p>
+
+    <p>I investigate the <strong>form, function, and control</strong> of tendon-driven upper-limb prosthetic devices. My work integrates <strong>biologically informed mechanical design</strong>, <strong>state-based haptic feedback</strong>, <strong>prosthetic device control</strong>, <strong>musculoskeletal-informed control</strong>, and <strong>multimodal workload assessment</strong>.</p>
+
+    <p>I expect to graduate in <strong>May 2026</strong> and am seeking <strong>postdoctoral opportunities beginning Fall 2026</strong>.</p>
+
+    <p>
+      <a href="/research/" class="btn btn--primary">View Research</a>
+      <a href="/cv/" class="btn btn--inverse">View CV</a>
+    </p>
+  </div>
+
+</div>
+
 {% include feature_row %}
-
-## About
-
-I’m **Lorena Velásquez**, a PhD Candidate in Mechanical Engineering at **Johns Hopkins University** and a Graduate Research Assistant in the **Haptics and Medical Robotics Laboratory**.
-
-My work integrates **biologically informed mechanical design**, **state-based haptic feedback**, **prosthetic device control**, **musculoskeletal-informed control**, and **multimodal workload assessment**.
-
-I expect to graduate in **May 2026** and am seeking **postdoctoral opportunities beginning Fall 2026**.
-
-[View Research](/research/){: .btn .btn--primary}
-[View CV](/cv/){: .btn .btn--inverse}
