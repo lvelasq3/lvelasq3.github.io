@@ -6,20 +6,24 @@
 #
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
-
 main:
+  - title: "Home"
+    url: /
+
   - title: "Research"
     url: /research/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Media"
-    url: /media/
+  - title: "Outreach"
+    url: /outreach/
+
+  - title: "Talks"
+    url: /talks/
 
   - title: "CV"
     url: /cv/
 
   - title: "Contact"
     url: /contact/
-
