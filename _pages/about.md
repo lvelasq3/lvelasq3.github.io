@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /images/home-banner.jpg
+  overlay_image: /images/jhu.png
   overlay_filter: 0.45
   caption:
 excerpt: "Biologically informed prosthetic design, haptic feedback, and human-centered control."
