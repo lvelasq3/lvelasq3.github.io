@@ -10,27 +10,34 @@ header:
   overlay_image: /images/jhu.jpg
   overlay_filter: 0.45
   caption:
-excerpt: "Biologically informed prosthetic design, haptic feedback, and human-centered control."
+excerpt: "Ph.D. | Graduate Research Assistant | Johns Hopkins University"
 intro:
-  - excerpt: "I investigate the **form, function, and control** of tendon-driven upper-limb prosthetic devices to improve task performance, comfort, and cognitive workload during everyday use."
+  - excerpt: "Hi, I'm Lorena. I'm a graduate research assistant in the Haptics and Medical Robotics Laboratory in the Department of Mechanical Engineering at Johns Hopkins University. My work focuses on investigating the **form, function, and control** of tendon-driven upper-limb prosthetic devices to improve task performance, comfort, and cognitive workload during everyday use."
 feature_row:
   - image_path: /images/taph_bsh.jpg
     alt: "Tendon-actuated prosthetic device design."
-    title: "Prosthetic Device Design"
+    title: "FORM"
     excerpt: "Biologically informed tendon-actuated prostheses for improved grasping, force distribution, and ADL performance."
     url: /research/
     btn_label: "Research"
     btn_class: "btn--primary"
   - image_path: /images/haptics.jpg
     alt: "Haptic feedback system."
-    title: "Haptic Feedback"
+    title: "Function"
     excerpt: "State-based vibrotactile and skin-stretch feedback for reducing cognitive workload during prosthesis use."
     url: /research/
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /images/fnirs_1.jpg
     alt: "fNIRS and eye tracking"
-    title: "Cognitive Workload"
+    title: "CONTROL"
+    excerpt: "Multimodal evaluation of prosthesis use using NASA-TLX, fNIRS, eye tracking, and task performance."
+    url: /research/
+    btn_label: "View Projects"
+    btn_class: "btn--primary"
+  - image_path: /images/fnirs_1.jpg
+    alt: "fNIRS and eye tracking"
+    title: "EVALUATION"
     excerpt: "Multimodal evaluation of prosthesis use using NASA-TLX, fNIRS, eye tracking, and task performance."
     url: /research/
     btn_label: "View Projects"
