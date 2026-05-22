@@ -7,33 +7,33 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /images/taph_bsh.png
+  overlay_image: jhu.jpg
   overlay_filter: 0.45
   caption:
 excerpt: "Graduate Research Assistant, Johns Hopkins University"
 feature_row:
-  - image_path: /images/taph_bsh.png
+  - image_path: taph_bsh.png
     alt: "Tendon-actuated prosthetic device design."
     title: "FORM"
     excerpt: "Biologically informed tendon-actuated prostheses for improved grasping, force distribution, and ADL performance."
     url: /research/
     btn_label: "Research"
     btn_class: "btn--primary"
-  - image_path: /images/haptics.png
+  - image_path: haptics.png
     alt: "Haptic feedback system."
     title: "FUNCTION"
     excerpt: "State-based vibrotactile and skin-stretch feedback for reducing cognitive workload during prosthesis use."
     url: /research/
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /images/fnirs_1.png
+  - image_path: fnirs_1.png
     alt: "fNIRS and eye tracking"
     title: "CONTROL"
     excerpt: "Musculoskeletal-informed control strategies for tendon-driven upper-limb prosthetic devices."
     url: /research/
     btn_label: "View Projects"
     btn_class: "btn--primary"
-  - image_path: /images/fnirs_1.png
+  - image_path: fnirs_1.png
     alt: "fNIRS and eye tracking"
     title: "EVALUATION"
     excerpt: "Multimodal evaluation of prosthesis use using NASA-TLX, fNIRS, eye tracking, and task performance."
