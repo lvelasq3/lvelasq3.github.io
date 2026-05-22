@@ -12,26 +12,28 @@ header:
   caption:
 excerpt: "Graduate Research Assistant, Johns Hopkins University"
 feature_row:
-  - image_path: taph_bsh.png
-    alt: "Tendon-actuated prosthetic device design."
-    title: "FORM"
-    excerpt: "Biologically informed tendon-actuated prostheses for improved grasping, force distribution, and ADL performance."
-    url: /research/
-    btn_label: "Research"
-    btn_class: "btn--primary"
   - image_path: haptics.png
-    alt: "Haptic feedback system."
-    title: "FUNCTION"
-    excerpt: "State-based vibrotactile and skin-stretch feedback for reducing cognitive workload during prosthesis use."
+    alt: "Tendon-actuated prosthetic hand"
+    title: "Research"
+    excerpt: "Biologically informed prosthetic design, sensory feedback, and human-centered control for upper-limb prosthetic devices."
     url: /research/
-    btn_label: "Learn More"
+    btn_label: "Explore Research"
     btn_class: "btn--primary"
-  - image_path: fnirs_1.png
-    alt: "fNIRS and eye tracking"
-    title: "CONTROL"
-    excerpt: "Musculoskeletal-informed control strategies for tendon-driven upper-limb prosthetic devices."
-    url: /research/
-    btn_label: "View Projects"
+
+  - image_path: outreach.png
+    alt: "Outreach and community engagement"
+    title: "Outreach"
+    excerpt: "Hands-on STEM engagement, prosthetics demonstrations, mentoring, and community-centered engineering education."
+    url: /outreach/
+    btn_label: "View Outreach"
+    btn_class: "btn--primary"
+
+  - image_path: talks.png
+    alt: "Conference talks and presentations"
+    title: "Talks"
+    excerpt: "Conference presentations, invited talks, workshops, and scientific communication across prosthetics and robotics communities."
+    url: /talks/
+    btn_label: "View Talks"
     btn_class: "btn--primary"
 ---
 
