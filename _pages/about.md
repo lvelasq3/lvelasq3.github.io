@@ -7,28 +7,28 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /images/jhu.png
+  overlay_image: /images/jhu.jpg
   overlay_filter: 0.45
   caption:
 excerpt: "Biologically informed prosthetic design, haptic feedback, and human-centered control."
 intro:
   - excerpt: "I investigate the **form, function, and control** of tendon-driven upper-limb prosthetic devices to improve task performance, comfort, and cognitive workload during everyday use."
 feature_row:
-  - image_path: /images/taph_bsh.png
+  - image_path: /images/taph_bsh.jpg
     alt: "Tendon-actuated prosthetic device design"
     title: "Prosthetic Device Design"
-    excerpt: "Biologically informed tendon-actuated end effectors for improved grasping, force distribution, and ADL performance."
+    excerpt: "Biologically informed tendon-actuated prostheses for improved grasping, force distribution, and ADL performance."
     url: /research/
     btn_label: "Research"
     btn_class: "btn--primary"
-  - image_path: /images/haptics.png
+  - image_path: /images/haptics.jpg
     alt: "Haptic feedback system"
     title: "Haptic Feedback"
     excerpt: "State-based vibrotactile and skin-stretch feedback for reducing cognitive workload during prosthesis use."
     url: /research/
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /images/fnirs_1.png
+  - image_path: /images/fnirs_1.jpg
     alt: "fNIRS and eye tracking"
     title: "Cognitive Workload"
     excerpt: "Multimodal evaluation of prosthesis use using NASA-TLX, fNIRS, eye tracking, and task performance."
