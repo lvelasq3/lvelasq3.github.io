@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: false
 header:
-  overlay_image: /images/jhu.png
+  overlay_image: jhu.png
   overlay_filter: 0.45
   caption:
 excerpt: "Form, function, control, and evaluation of tendon-driven upper-limb prosthetic devices."
