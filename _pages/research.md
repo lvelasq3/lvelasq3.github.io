@@ -6,7 +6,6 @@ author_profile: false
 header:
   overlay_image: jhu.jpg
   overlay_filter: 0.45
-excerpt: "Form, function, control, and evaluation of tendon-driven upper-limb prosthetic devices."
 ---
 
 My research investigates the **form, function, and control** of tendon-driven upper-limb prosthetic devices. Across my work, I use biologically informed design, sensory feedback, musculoskeletal-informed control, and multimodal cognitive workload assessment to improve prosthesis performance and usability during activities of daily living.
