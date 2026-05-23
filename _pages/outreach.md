@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Research"
-permalink: /research/
+title: "Outreach"
+permalink: /outreach/
 author_profile: false
 header:
   overlay_image: jhu.jpg
