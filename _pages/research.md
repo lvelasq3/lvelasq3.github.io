@@ -40,28 +40,28 @@ The Tendon-Actuated Modular Prosthesis (TAMP) is a configurable research platfor
 </div>
 
 <div>
-  <img src="/images/hamr_process.png" alt="TAPH and BSH prosthetic hands" style="width:100%; border-radius:12px;">
+  <img src="/images/form-04.png" alt="TAPH and BSH prosthetic hands" style="width:100%; border-radius:12px;">
   <h2>FORM</h2>
   <p><strong>Biologically informed prosthetic hand design.</strong> This work compares anatomically informed and baseline tendon-actuated hand designs to evaluate how prosthesis geometry and tendon architecture affect ADL task performance.</p>
   <p><a href="/publications/" class="btn btn--primary">Read Paper</a></p>
 </div>
 
 <div>
-  <img src="/images/haptics_1.png" alt="Haptic feedback system" style="width:100%; border-radius:12px;">
+  <img src="/images/tnsre-05.png" alt="Haptic feedback system" style="width:100%; border-radius:12px;">
   <h2>HAPTICS</h2>
   <p><strong>State-based haptic feedback for tendon-driven prostheses.</strong> This work evaluates vibrotactile and skin-stretch feedback as strategies for communicating internal device state and reducing cognitive demand during prosthesis use.</p>
   <p><a href="/publications/" class="btn btn--primary">Read Paper</a></p>
 </div>
 
 <div>
-  <img src="/images/haptics.png" alt="Muscle model controller" style="width:100%; border-radius:12px;">
+  <img src="/images/control-03.png" alt="Muscle model controller" style="width:100%; border-radius:12px;">
   <h2>CONTROL</h2>
   <p><strong>Musculoskeletal-informed prosthetic control.</strong> This work explores Hill-type muscle model control strategies that translate user intent into more physiologically grounded tendon-driven device behavior.</p>
   <p><a href="/publications/" class="btn btn--primary">Project Details</a></p>
 </div>
 
 <div>
-  <img src="/images/fnirs.png" alt="fNIRS and eye tracking cognitive workload assessment" style="width:100%; border-radius:12px;">
+  <img src="/images/cog-01.png" alt="fNIRS and eye tracking cognitive workload assessment" style="width:100%; border-radius:12px;">
   <h2>COGNITIVE EVALUATION</h2>
   <p><strong>Multimodal cognitive workload assessment.</strong> This work combines NASA-TLX, fNIRS, eye tracking, and task performance to evaluate how prosthesis use affects cognitive workload during activities of daily living.</p>
   <p><a href="/publications/" class="btn btn--primary">Read Paper</a></p>
