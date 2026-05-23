@@ -26,7 +26,7 @@ My research investigates the **form, function, and control** of tendon-driven up
 
   <div>
     <video width="100%" controls autoplay muted loop playsinline style="border-radius:12px;">
-      <source src="/files/tamp_vid_compressed.mp4" type="video/mp4">
+      <source src="/files/tamp_vid.mp4" type="video/mp4">
     </video>
   </div>
 
