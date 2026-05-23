@@ -6,7 +6,6 @@ author_profile: false
 header:
   overlay_image: jhu.jpg
   overlay_filter: 0.45
-  caption:
 excerpt: "Form, function, control, and evaluation of tendon-driven upper-limb prosthetic devices."
 ---
 
