@@ -55,7 +55,7 @@ I support undergraduate researchers participating in National Science Foundation
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:2rem;">
 
 <div>
-<img src="/images/msc.png" alt="Maryland Science Center" style="width:100%; border-radius:12px;">
+<img src="/images/msc_v1.png" alt="Maryland Science Center" style="width:100%; border-radius:12px;">
 
 <h2>Maryland Science Center</h2>
 
