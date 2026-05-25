@@ -17,7 +17,7 @@ Engineering research has the greatest impact when it is shared broadly. Through 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:2rem; margin-bottom:4rem;">
 
 <div>
-<img src="/images/vtsi.png" alt="VTSI Mentorship" style="width:100%; border-radius:12px;">
+<img src="/images/vtsi_outreach.png" alt="VTSI Mentorship" style="width:100%; border-radius:12px;">
 
 <h2>Vivien Thomas Scholars Initiative (VTSI)</h2>
 
@@ -27,7 +27,7 @@ Through the Vivien Thomas Scholars Initiative, I mentor undergraduate researcher
 </div>
 
 <div>
-<img src="/images/vtsi-10.png" alt="WISE Mentorship" style="width:100%; border-radius:12px;">
+<img src="/images/wise_outreach.png" alt="WISE Mentorship" style="width:100%; border-radius:12px;">
 
 <h2>WISE Research Mentorship</h2>
 
@@ -37,7 +37,7 @@ As part of the Whiting School of Engineering's WISE programs, I mentor high-scho
 </div>
 
 <div>
-<img src="/images/reu.png" alt="NSF REU Mentorship" style="width:100%; border-radius:12px;">
+<img src="/images/reu_outreach.png" alt="NSF REU Mentorship" style="width:100%; border-radius:12px;">
 
 <h2>NSF REU Programs</h2>
 
@@ -55,7 +55,7 @@ I support undergraduate researchers participating in National Science Foundation
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:2rem;">
 
 <div>
-<img src="/images/msc_v1.png" alt="Maryland Science Center" style="width:100%; border-radius:12px;">
+<img src="/images/msc_outreach.png" alt="Maryland Science Center" style="width:100%; border-radius:12px;">
 
 <h2>Maryland Science Center</h2>
 
@@ -65,7 +65,7 @@ I help develop and present interactive exhibits that introduce visitors to prost
 </div>
 
 <div>
-<img src="/images/camp-bmore.png" alt="Camp BMore" style="width:100%; border-radius:12px;">
+<img src="/images/campbmore_outreach.png" alt="Camp BMore" style="width:100%; border-radius:12px;">
 
 <h2>Camp BMore</h2>
 
@@ -75,12 +75,12 @@ Through Camp BMore, our team designs and fabricates customized prosthetic device
 </div>
 
 <div>
-<img src="/images/barclay-tour.png" alt="Barclay School Tours" style="width:100%; border-radius:12px;">
+<img src="/images/barclay_outreach.png" alt="Barclay School Tours" style="width:100%; border-radius:12px;">
 
 <h2>Barclay School STEM Tours</h2>
 
 <p>
-In partnership with WISE outreach initiatives, I host laboratory tours and engineering demonstrations for middle-school students, introducing them to prosthetics, robotics, and pathways into STEM careers.
+In partnership with the Whiting Institute for Science Education (WISE) outreach initiatives, I host laboratory tours and engineering demonstrations for local middle-school students, introducing them to prosthetics, robotics, and pathways into STEM careers.
 </p>
 </div>
 
