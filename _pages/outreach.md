@@ -27,7 +27,7 @@ Through the Vivien Thomas Scholars Initiative, I mentor undergraduate researcher
 </div>
 
 <div>
-<img src="/images/wise-mentorship.png" alt="WISE Mentorship" style="width:100%; border-radius:12px;">
+<img src="/images/vtsi-10.png" alt="WISE Mentorship" style="width:100%; border-radius:12px;">
 
 <h2>WISE Research Mentorship</h2>
 
