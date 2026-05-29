@@ -11,7 +11,7 @@ header:
 My research investigates the **form, function, and control** of tendon-driven upper-limb prosthetic devices. Across my work, I use biologically informed design, sensory feedback, musculoskeletal-informed control, and multimodal cognitive workload assessment to improve prosthesis performance and usability during activities of daily living.
 
 ---
----
+
 
 <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 2rem; align-items: center; margin: 2.5rem 0 4rem 0;">
 
