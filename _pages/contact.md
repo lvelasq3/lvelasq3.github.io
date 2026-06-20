@@ -99,7 +99,7 @@ header:
 .contact-note {
   margin-top: 1.2rem;
   font-size: 0.85rem;
-  color: #666;
+  color: #000000;
 }
 
 @media (max-width: 700px) {
