@@ -46,6 +46,7 @@ header:
   margin: 0;
   font-size: 2.4rem;
   font-weight: 400;
+  color: #111 !important;
 }
 
 .contact-line {
